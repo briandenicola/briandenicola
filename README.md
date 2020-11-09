@@ -1,4 +1,4 @@
-### Hi There
+### About me...
 
 - My Website - https://briandenicola.com
 - My Blog - https://quickanddirtyscripting.wordpress.com/

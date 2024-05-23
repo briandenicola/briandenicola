@@ -1,6 +1,10 @@
 ### About Me
 
-- Currently working on Azure at Microsoft
+- 🧑‍💼Currently working on Azure at Microsoft
+- ⚽Soccer fan
+- :european_castle: History Fan
+- :books:Reader
+- :beginner: Developer
 - Find me at [LinkedIn](https://www.linkedin.com/in/bjd145/)
 - Pronouns: He/Him 
 

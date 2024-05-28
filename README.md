@@ -2,9 +2,9 @@
 
 - 🧑‍💼Currently working on Azure at Microsoft
 - ⚽Soccer fan
-- :european_castle: History Fan
+- :european_castle:History Fan
 - :books:Reader
-- :beginner: Developer
+- :beginner:Developer
 - Find me at [LinkedIn](https://www.linkedin.com/in/bjd145/)
 - Pronouns: He/Him 
 
